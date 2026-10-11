@@ -1,0 +1,6 @@
+{
+  "name": "দৈনিক কুষ্টিয়া দিগন্ত - Dainik Kushtia Diganta",
+  "description": "কুষ্টিয়া, খোকসা ও জাতীয় সংবাদভিত্তিক নির্ভরযোগ্য বাংলা ডিজিটাল সংবাদপত্র দৈনিক কুষ্টিয়া দিগন্ত। বস্তুনিষ্ঠ সাংবাদিকতা ও সত্যের সন্ধানে সার্বক্ষণিক সংবাদ প্রকাশনা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
